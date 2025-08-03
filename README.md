@@ -76,7 +76,7 @@ This challenge will primarily use the following tools and libraries:
 ## 🚀 How to Follow My Journey
 
 - **GitHub:** All code, notebooks, and resources for each day will be committed to this repository.  
-- **LinkedIn:** I will be posting daily updates on my progress, key learnings, and project outcomes.  
+- **LinkedIn:** I will be posting daily updates on my progress, key learnings, and project outcomes at linkedin.com/in/aman-yadav-011a07351/
 Feel free to connect and follow along!
 
 ---
