@@ -76,8 +76,14 @@ This challenge will primarily use the following tools and libraries:
 ## 🚀 How to Follow My Journey
 
 - **GitHub:** All code, notebooks, and resources for each day will be committed to this repository.  
-- **LinkedIn:** I will be posting daily updates on my progress, key learnings, and project outcomes at linkedin.com/in/aman-yadav-011a07351/
+- **LinkedIn:** I will be posting daily updates on my progress, key learnings, and project.
 Feel free to connect and follow along!
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/aman-yadav-011a07351/)
 
 ---
 > 📌 **Note:** This table is tentative and may be updated or adjusted as we progress through the journey.
