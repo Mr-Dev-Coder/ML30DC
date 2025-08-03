@@ -84,6 +84,7 @@ Feel free to connect and follow along!
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/aman-yadav-011a07351/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Mr-Dev-Coder/ML30DC.git)
 
 ---
 > 📌 **Note:** This table is tentative and may be updated or adjusted as we progress through the journey.
