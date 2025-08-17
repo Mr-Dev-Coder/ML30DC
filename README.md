@@ -1,4 +1,4 @@
-# 30-Day Machine Learning Challenge 🚀
+# 30-Day Machine Learning Challenge (Learning Phase) 🚀
 
 Welcome to my **30-Day Machine Learning Challenge!**  
 This repository documents my journey as I dive deep into the world of machine learning, from foundational concepts to building hands-on projects.  
