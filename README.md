@@ -35,7 +35,7 @@ This challenge will primarily use the following tools and libraries:
 
 ---
 
-## 🗓️ 30-Day Plan > `32-Day Plan`
+## 🗓️ 30-Day Plan > `33-Day Plan`
 
 | Day | Topic                              | Task |
 |-----|------------------------------------|------|
@@ -64,13 +64,14 @@ This challenge will primarily use the following tools and libraries:
 | 23  | Cross-Validation                   | Understand and apply K-Fold Cross-Validation. |
 | 24  | K-Means Clustering                 | Perform unsupervised clustering and use the elbow method. |
 | 25  | DBSCAN Clustering   `New`          | Density-based clustering that finds any shape and flags outliers—no preset cluster count.|
-| 26  | Principal Component Analysis (PCA) | Use PCA for dimensionality reduction. |
-| 27  | Hyperparameter Tuning              | Use `GridSearchCV` and `RandomizedSearchCV` to tune models. |
-| 28  | Project 1: Regression              | Predict house prices using preprocessing and regression. |
-| 29  | Project 2: Classification          | Predict survival on Titanic dataset using classification models. |
-| 30  | Project 3: Clustering              | Segment customers using K-Means. |
-| 31  | Project 4: NLP                     | Build a spam classifier using Naive Bayes and TF-IDF. |
-| 32  | Project 5: Computer Vision         | Classify handwritten digits using MNIST. |
+| 26  | Dimensionality Reduction (PCA, LDA, t-SNE) `Revised` | Techniques to reduce dataset features, including unsupervised PCA, supervised LDA, and t-SNE for visualization. |
+| 27  | Ensemble Methods   `New`           | Combine models for better accuracy. Bagging (Random Forest) cuts variance; Boosting (AdaBoost, XGBoost) reduces bias.|
+| 28  | Hyperparameter Tuning              | Use `GridSearchCV` and `RandomizedSearchCV` to tune models. |
+| 29  | Project 1: Regression              | Predict house prices using preprocessing and regression. |
+| 30  | Project 2: Classification          | Predict survival on Titanic dataset using classification models. |
+| 31  | Project 3: Clustering              | Segment customers using K-Means. |
+| 32  | Project 4: NLP                     | Build a spam classifier using Naive Bayes and TF-IDF. |
+| 33  | Project 5: Computer Vision         | Classify handwritten digits using MNIST. |
 
 ---
 
