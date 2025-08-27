@@ -1,4 +1,4 @@
-# 30-Day Machine Learning Challenge (Learning Phase) 🚀
+# 30-Day Machine Learning Challenge 🚀
 
 Welcome to my **30-Day Machine Learning Challenge!**  
 This repository documents my journey as I dive deep into the world of machine learning, from foundational concepts to building hands-on projects.  
@@ -35,7 +35,7 @@ This challenge will primarily use the following tools and libraries:
 
 ---
 
-## 🗓️ 30-Day Plan > `33-Day Plan`
+## 🗓️ 30-Day Plan
 
 | Day | Topic                              | Task |
 |-----|------------------------------------|------|
@@ -68,10 +68,7 @@ This challenge will primarily use the following tools and libraries:
 | 27  | Ensemble Methods   `New`           | Combine models for better accuracy. Bagging (Random Forest) cuts variance; Boosting (AdaBoost, XGBoost) reduces bias.|
 | 28  | Hyperparameter Tuning              | Use `GridSearchCV` and `RandomizedSearchCV` to tune models. |
 | 29  | Project 1: Regression              | Predict house prices using preprocessing and regression. |
-| 30  | Project 2: Classification          | Predict survival on Titanic dataset using classification models. |
-| 31  | Project 3: Clustering              | Segment customers using K-Means. |
-| 32  | Project 4: NLP                     | Build a spam classifier using Naive Bayes and TF-IDF. |
-| 33  | Project 5: Computer Vision         | Classify handwritten digits using MNIST. |
+| 30  | Project Final : Customer Churn Prediction  | building an end-to-end Customer Churn Prediction model, a classic and high-impact problem in data science. |
 
 ---
 
