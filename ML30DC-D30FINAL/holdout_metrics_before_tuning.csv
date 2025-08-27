@@ -1,0 +1,2 @@
+best_model,holdout_accuracy,holdout_precision,holdout_recall,holdout_f1,holdout_roc_auc,tn,fp,fn,tp
+LogisticRegression,0.8085106382978723,0.6857142857142857,0.5133689839572193,0.5871559633027523,0.8439493733611381,474,44,91,96

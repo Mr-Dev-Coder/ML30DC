@@ -1,0 +1,2 @@
+best_model_tuned,holdout_accuracy,holdout_precision,holdout_recall,holdout_f1,holdout_roc_auc,tn,fp,fn,tp,clf__C,clf__penalty,clf__solver,pca__n_components
+LogisticRegression,0.8113475177304964,0.684931506849315,0.5347593582887701,0.6006006006006006,0.8523114405467347,472,46,87,100,3.0,l2,lbfgs,None
